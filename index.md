@@ -8,32 +8,32 @@
 <!-- <div class="row">
   <div class="column-left">
     <figure>
-    <a href="assets/img/pic_sample.png"><img src="assets/img/pic_sample.png" alt="" width="100%"></a>
+    <a href="./assets/img/pic_sample.png"><img src="./assets/img/pic_sample.png" alt="" width="100%"></a>
     <figcaption style="text-align:center">An example in PS, PR, and PSD datasets.</figcaption>
   </figure>
   </div>
   <div class="column-right">
     <figure>
-      <a href="assets/img/pic_construction.png"><img src="assets/img/pic_construction.png" alt="" width="100%"></a>
+      <a href="./assets/img/pic_construction.png"><img src="./assets/img/pic_construction.png" alt="" width="100%"></a>
       <figcaption>Upwork experts rephrase “massive figure” in two pages (Q1 & Q2) and answer Q3 whether this phrase has the same meaning in two pages.</figcaption>
     </figure>
   </div>
 </div> -->
 
 <!-- <figure>
-  <a href="assets/img/pic_construction.png"><img src="assets/img/pic_construction.png" alt="" width="60%"></a>
+  <a href="./assets/img/pic_construction.png"><img src="./assets/img/pic_construction.png" alt="" width="60%"></a>
   <figcaption style="text-align:left">Upwork experts rephrase “massive figure” in two pages (Q1 & Q2) and answer Q3 whether this phrase has the same meaning in two pages.</figcaption>
 </figure>  -->
 
 <!-- <figure style="text-align:center">
-  <a href="/assets/img/pic_tasks.png"><img src="/assets/img/pic_tasks.png" alt="" width="100%"></a>
+  <a href="./assets/img/pic_tasks.png"><img src="./assets/img/pic_tasks.png" alt="" width="100%"></a>
   <figcaption style="text-align:left">Given each annotation i.e. phrase1 or phrase2 produced by Upwork experts above, from left to right, we construct a pair of positive and negative examples for PS (1), 1 PR-pass example (2) and 1 PR-page example (3) with the difference in document length. Only if the answer of Q3 is "No", we construct a PSD example (4) from each annotation.
 </figcaption>
 </figure>
  -->
  
  <figure style="text-align:center">
-  <a href="/assets/img/pic_tasks.png"><img src="/assets/img/pic_construction_new.png" alt="" width="100%"></a>
+  <a href="./assets/img/pic_tasks.png"><img src="./assets/img/pic_construction_new.png" alt="" width="100%"></a>
   <figcaption style="text-align:left">
     Given a phrase, two associated Wikipedia pages, and expert annotations, i.e. answers to Q1, Q2, and Q3 (a), we are able to construct two pairs of positive and negative examples for PS (b), a PR-pass example (c), a PR-page example (d), and a PSD example only if the answer to Q3 is No (e).
   </figcaption>
@@ -69,15 +69,4 @@ PSD is a phrase retrieval task like PR-pass and PR-page but more challenging sin
 
 -----
 
-Joint work between Adobe Research and Auburn University: [Thang Pham](https://twitter.com/pmthangxai), [Seunghyun Yoon](https://david-yoon.github.io), [Trung Bui](https://research.adobe.com/person/trung-bui/), and [Anh Nguyen](https://anhnguyen.me).
-
-
-```
-@article{pham2022PiC,
-  title={PiC: A Phrase-in-Context Dataset for Phrase Understanding and Semantic Search},
-  author={Pham, Thang M and Yoon, Seunghyun and Bui, Trung and Nguyen, Anh},
-  journal={arXiv preprint arXiv:2207.09068},
-  year={2022}
-}
-```
 
