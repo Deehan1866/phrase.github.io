@@ -8,20 +8,20 @@
 <!-- <div class="row">
   <div class="column-left">
     <figure>
-    <a href="/assets/img/pic_sample.png"><img src="/assets/img/pic_sample.png" alt="" width="100%"></a>
+    <a href="assets/img/pic_sample.png"><img src="assets/img/pic_sample.png" alt="" width="100%"></a>
     <figcaption style="text-align:center">An example in PS, PR, and PSD datasets.</figcaption>
   </figure>
   </div>
   <div class="column-right">
     <figure>
-      <a href="/assets/img/pic_construction.png"><img src="/assets/img/pic_construction.png" alt="" width="100%"></a>
+      <a href="assets/img/pic_construction.png"><img src="assets/img/pic_construction.png" alt="" width="100%"></a>
       <figcaption>Upwork experts rephrase “massive figure” in two pages (Q1 & Q2) and answer Q3 whether this phrase has the same meaning in two pages.</figcaption>
     </figure>
   </div>
 </div> -->
 
 <!-- <figure>
-  <a href="/assets/img/pic_construction.png"><img src="/assets/img/pic_construction.png" alt="" width="60%"></a>
+  <a href="assets/img/pic_construction.png"><img src="assets/img/pic_construction.png" alt="" width="60%"></a>
   <figcaption style="text-align:left">Upwork experts rephrase “massive figure” in two pages (Q1 & Q2) and answer Q3 whether this phrase has the same meaning in two pages.</figcaption>
 </figure>  -->
 
