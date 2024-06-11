@@ -1,3 +1,4 @@
+gem install bundler jekyll
 source 'https://rubygems.org'
 gem "github-pages", group: :jekyll_plugins
 
