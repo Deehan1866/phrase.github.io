@@ -33,7 +33,7 @@ buttons:
 
 navbar-links:
     Paper: "https://arxiv.org/abs/2207.09068"
-    #Demo: "https://huggingface.co/spaces/Deehan1866/Deehan1866-phrase-bert-qa-phrase-retreival-prpass"
+    Demo: "https://otuhrp5ysa-496ff2e9c6d22116-5000-colab.googleusercontent.com/"
     Phrase Similarity: "phrase_similarity"
     Phrase Retrieval: "phrase_retrieval"
     Phrase Sense Disambiguation: "phrase_sense_disambiguation"
