@@ -33,7 +33,7 @@ buttons:
 
 navbar-links:
     Paper: "https://arxiv.org/abs/2207.09068"
-    Demo: "https://prqjasw8k58-496ff2e9c6d22116-5007-colab.googleusercontent.com/"
+    Demo: "https://a6x0b3hn8v-496ff2e9c6d22116-5007-colab.googleusercontent.com/"
     Phrase Similarity: "phrase_similarity"
     Phrase Retrieval: "phrase_retrieval"
     Phrase Sense Disambiguation: "phrase_sense_disambiguation"
