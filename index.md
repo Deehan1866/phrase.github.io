@@ -46,7 +46,7 @@ PS is a binary classification task with the goal of predicting whether two multi
 
 
 <a style="width:200px" href="phrase_similarity" class="btn-bootstrap btn-outline-ps">Example PS</a>
-<a style="width:200px" href="https://huggingface.co/spaces/Deehan1866/Deehan1866-phrase-bert-qa-phrase-retreival-prpass" class="btn-bootstrap btn-outline-ps">Demo PS</a>
+<a style="width:200px" href="https://huggingface.co/spaces/Deehan1866/Phrase-Similarity-in-Context" class="btn-bootstrap btn-outline-ps">Demo PS</a>
 
 
 ## PR: Phrase Retrieval
